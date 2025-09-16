@@ -6,7 +6,7 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/so1gging/so1gging.github.io//_next/:path+",
+        "source": "/so1gging/so1gging.github.io/_next/:path+",
         "destination": "/_next/:path+"
       }
     ],
